@@ -6,4 +6,4 @@ First one was created using stable difusion (https://stability.ai/blog/stable-di
 
 You can generate a similar one if you use seed 3258159489 on https://beta.dreamstudio.ai/dream with propmt "robot killing robot logo".
 
-Our altered version is this one:
+Our altered version is this one: https://github.com/knelasevero/descheduler-logo-proposals/blob/main/proposals/descheduler_logo1.png
